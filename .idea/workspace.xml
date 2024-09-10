@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="591d9638-d159-49b1-8f72-2b8c3d8c34c4" name="Changes" comment="">
+    <list default="true" id="591d9638-d159-49b1-8f72-2b8c3d8c34c4" name="Changes" comment="Incluido cálculo de porcentagem.">
+      <change afterPath="$PROJECT_DIR$/src/Calculos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -23,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2lqwr8be2mRlSDHnjsmlgL2fiAb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,7 +38,8 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LucasPC/Desktop/Target.Teste/Desafio.4"
   }
 }]]></component>
   <component name="RunManager">
@@ -63,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725921113504</updated>
     </task>
+    <task id="LOCAL-00001" summary="Incluido cálculo de porcentagem.">
+      <option name="closed" value="true" />
+      <created>1725922905149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725922905149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Incluido cálculo de porcentagem." />
+    <option name="LAST_COMMIT_MESSAGE" value="Incluido cálculo de porcentagem." />
   </component>
 </project>
