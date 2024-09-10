@@ -1,24 +1,21 @@
-import Apoio.Calculos;
+import Apoio.Frases;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        Calculos calculos = new Calculos();
+        Frases frases = new Frases();
 
-
-
-
-
-
-
-
-
-        System.out.println(porcentagemSP);
-        System.out.println(porcentagemRJ);
-        System.out.println(porcentagemMG);
-        System.out.println(porcentagemES);
-        System.out.println(porcentagemOUTROS);
-        System.out.println(porcentagemSP+porcentagemRJ+porcentagemMG+porcentagemES+porcentagemOUTROS);
+        System.out.println(frases.getMensagemSp());
+        System.out.println(frases.getMensagemRj());
+        System.out.println(frases.getMensagemMg());
+        System.out.println(frases.getMensagemEs());
+        System.out.println(frases.getMensagemOutros());
+        System.out.println(frases.getValorTotal());
     }
 }
+
+
+
+
+
